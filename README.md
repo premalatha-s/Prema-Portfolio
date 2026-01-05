@@ -8,14 +8,14 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript to
 - Skills overview
 - Contact section
 
-# 🛠️ Technologies Used
+# Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-# 📌 Purpose
+# Purpose
 This portfolio is created to highlight my web development skills and serve as an online resume for software development opportunities.
 
-# 📬 Contact
-- LinkedIn: (add your LinkedIn link)
+# Contact
+- LinkedIn: https://www.linkedin.com/in/premalatha-subramani
 - GitHub: https://github.com/premalatha-s
